@@ -5,16 +5,67 @@
 
 I'm an Electronic Engineer with an emphasis on Digital Systems, possessing skills in the design, implementation, and maintenance of electronic systems. I have expertise in areas such as electronics, embedded systems, communication systems, automation, and control. I stand out for my ability to quickly adapt to different needs and efficiently solve problems.
 
-# 📝 About me
+<details>
+<summary><strong>Skills and Expertise</strong></summary>
 
-- I have expertise in wireless networks, including LAN, WAN, and WLAN.
-- I have worked on router configuration (Cisco and Juniper) and switches.
-- I have experience and knowledge in handling various routing protocols (OSPF, EIGRP, BGP, etc)
-- I am well-versed in the OSI and TCP/IP models.
-- Implementation of technologies such as DNS, DHCP, Apache, MPLS, ACLs, SDN, QoE, and QoS.
-- I have experience in creating documents in LaTeX, such as laboratory reports, in formats like IEEE, standard, APA, or as required.
-- I am proficient in operating Linux systems, including Ubuntu, Fedora, Linux Mint, and Ubuntu Mate.
-- I am proficient in software such as MATLAB, Proteus, Multisim, Eagle, Arduino, Kindle, Code Blocks, GIMP, Visual Studio Code, Android studio and office tools.
+### Networking:
+- LAN, WAN, WLAN
+- Router Configuration (Cisco, Juniper)
+- Switch Configuration
+- Routing Protocols (OSPF, EIGRP, BGP)
+- OSI and TCP/IP Models
+- DNS, DHCP, MPLS, ACLs
+- Software-Defined Networking (SDN)
+- Quality of Experience (QoE)
+- Quality of Service (QoS)
+
+</details>
+
+<details>
+<summary><strong>Document Creation</strong></summary>
+
+### Document Creation:
+- LaTeX (IEEE, Standard, APA)
+- Laboratory Reports
+
+</details>
+
+<details>
+<summary><strong>Operating Systems</strong></summary>
+
+### Operating Systems:
+- Linux (Ubuntu, Fedora, Linux Mint, Ubuntu Mate)
+
+</details>
+
+<details>
+<summary><strong>Software Proficiency</strong></summary>
+
+### Software Proficiency:
+- MATLAB
+- Proteus
+- Multisim
+- Eagle
+- Arduino
+- Kindle
+- Code Blocks
+- GIMP
+- Visual Studio Code
+- Android Studio
+- Office Tools
+
+</details>
+
+<details>
+<summary><strong>About Me</strong></summary>
+
+I am a skilled professional with expertise in wireless networks, router and switch configuration, routing protocols, OSI and TCP/IP models, and the implementation of various networking technologies. My proficiency extends to document creation using LaTeX and working with different formats such as IEEE, Standard, and APA. Additionally, I am well-versed in operating Linux systems and proficient in a range of software tools including MATLAB, Proteus, Arduino, and more. My commitment to excellence is demonstrated through my experience in handling diverse networking projects and creating high-quality technical documents.
+
+</details>
+
+
+<details>
+  <summary> <strong> Technologies and Tools </strong></summary>
 
 
 ## 🛠 Technologies and Tools
@@ -66,6 +117,6 @@ I'm an Electronic Engineer with an emphasis on Digital Systems, possessing skill
 <img src="https://2.bp.blogspot.com/-yEiGm5ZgMqE/WiMw8wpyMXI/AAAAAAAACCI/_8S2InEFJvkfQbIeeuzvwKGEDEVbmRy9wCLcBGAs/s1600/Kindle%2BCreate%2Blogo.png" width="100" height="100">
 
   
-
+</details>
   
 </div>
