@@ -1,4 +1,4 @@
-<img src="https://github.com/JsCc-Electro/Ima_profile/blob/8a46adfdaebd482f788fd33b7c791298f49ccdee/Banner_Ingles.jpg" width="1500" height="250">
+<img src="https://raw.githubusercontent.com/JsCc-Electro/Ima_profile/main/Banner_Ingles.jpg?token=GHSAT0AAAAAACLSXCDEOLGIVEVEV3ZBQEB4ZL3GGJA" width="1500" height="250">
 
 
 ## Joshua Cardenas
