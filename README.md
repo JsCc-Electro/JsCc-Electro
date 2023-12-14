@@ -1,3 +1,6 @@
+<img src="https://github.com/JsCc-Electro/Ima_profile/blob/main/Banner_Ingles.jpg" width="2000" height="300">
+
+
 ## Joshua Cardenas
 
 I'm an Electronic Engineer with an emphasis on Digital Systems, possessing skills in the design, implementation, and maintenance of electronic systems. I have expertise in areas such as electronics, embedded systems, communication systems, automation, and control. I stand out for my ability to quickly adapt to different needs and efficiently solve problems.
