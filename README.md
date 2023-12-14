@@ -5,7 +5,7 @@
 
 I'm an Electronic Engineer with an emphasis on Digital Systems, possessing skills in the design, implementation, and maintenance of electronic systems. I have expertise in areas such as electronics, embedded systems, communication systems, automation, and control. I stand out for my ability to quickly adapt to different needs and efficiently solve problems.
 
-# About me
+# 📝 About me
 
 - I have expertise in wireless networks, including LAN, WAN, and WLAN.
 - I have worked on router configuration (Cisco and Juniper) and switches.
@@ -17,7 +17,7 @@ I'm an Electronic Engineer with an emphasis on Digital Systems, possessing skill
 - I am proficient in software such as MATLAB, Proteus, Multisim, Eagle, Arduino, Kindle, Code Blocks, GIMP, Visual Studio Code, Android studio and office tools.
 
 
-# Skills
+# 🛠 Skills
 <div style="display: flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android Logo" width="100" height="100" style="margin-right: 20px;">
   <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" width="100" height="100">
