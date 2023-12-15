@@ -1,4 +1,4 @@
-![Banner](https://github.com/JsCc-Electro/Ima_profile/blob/8a46adfdaebd482f788fd33b7c791298f49ccdee/Banner_Ingles.jpg)
+![Banner](https://github.com/JsCc-Electro/Ima_profile/blob/e3996854d4f7cfd37a4a32f5ed996fa86906df01/Banner_Ingles.png)
 
 
 
