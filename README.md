@@ -64,6 +64,18 @@ I am a skilled professional with expertise in wireless networks, router and swit
 
 </details>
 
+<details>
+  <summary><strong> Certifications </strong></summary>
+  <p>Google Cloud Badge 6757319: This badge recognizes my ability to solve real-world problems using my Google Cloud knowledge. It demonstrates my cloud competency and supports in-demand cloud skills development and career growth.
+    <a href="https://www.cloudskillsboost.google/public_profiles/c3f3904c-dbe3-4dfb-a87f-c54550c89fd3/badges/6757319" target="_blank">View Badge</a>
+  </p>
+  <p>Google Cloud Badge 6761147: This badge also showcases my proficiency with Google Cloud products and solutions. It validates my expertise and ability to transform businesses with Google Cloud technology.
+    <a href="https://www.cloudskillsboost.google/public_profiles/c3f3904c-dbe3-4dfb-a87f-c54550c89fd3/badges/6761147" target="_blank">View Badge</a>
+  </p>
+</details>
+
+
+
 
 <details>
   <summary> <strong> Technologies and Tools </strong></summary>
@@ -111,6 +123,9 @@ I am a skilled professional with expertise in wireless networks, router and swit
 
 - **Cisco**
 <img src="https://github.com/JsCc-Electro/Ima_profile/blob/main/introduction-to-cybersecurity.png?raw=true" width="100" height="100">
+
+
+
 
 - **Others:**
 <img src="https://github.com/SantiagoBH/SantiagoBH/assets/47339991/27ad9e99-6160-48d2-aa0b-32263d5a98de" width="100" height="100">
