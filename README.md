@@ -72,6 +72,12 @@ I am a skilled professional with expertise in wireless networks, router and swit
   <p>Google Cloud Badge 6761147: This badge also showcases my proficiency with Google Cloud products and solutions. It validates my expertise and ability to transform businesses with Google Cloud technology.
     <a href="https://www.cloudskillsboost.google/public_profiles/c3f3904c-dbe3-4dfb-a87f-c54550c89fd3/badges/6761147" target="_blank">View Badge</a>
   </p>
+  <p>Credly Badge 3abacfb8-5777-4ef8-ae41-1f8349948220: This badge attests to my proficiency in a specialized domain, showcasing my dedication to continuous learning and expertise in relevant skills. It serves as a testament to my commitment to excellence and achievement in Introduction to Cybersecurity. 
+    <a href="https://www.credly.com/badges/3abacfb8-5777-4ef8-ae41-1f8349948220/public_url" target="_blank">View Badge</a>
+</p>
+
+
+  
 </details>
 
 
@@ -120,11 +126,6 @@ I am a skilled professional with expertise in wireless networks, router and swit
 
 - **Markup Language:**
 <img src="https://people.apache.org/~sgoeschl/presentations/2019/wehaveasciidoc/images/latex-logo.png" width="100" height="100">
-
-- **Cisco**
-<img src="https://github.com/JsCc-Electro/Ima_profile/blob/main/introduction-to-cybersecurity.png?raw=true" width="100" height="100">
-
-
 
 
 - **Others:**
