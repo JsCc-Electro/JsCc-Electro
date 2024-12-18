@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/JsCc-Electro/Ima_profile/e3996854d4f7cfd37a4a32f5ed996fa86906df01/Banner_Ingles.png?token=GHSAT0AAAAAACLSXCDF5M4WT3JOYXC2K5UKZL4INUQ)
+![Banner](https://raw.githubusercontent.com/JsCc-Electro/Ima_profile/e3996854d4f7cfd37a4a32f5ed996fa86906df01/Banner_Ingles.jpg?token=GHSAT0AAAAAACLSXCDF5M4WT3JOYXC2K5UKZL4INUQ)
 
 
 
